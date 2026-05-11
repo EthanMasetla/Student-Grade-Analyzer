@@ -1,4 +1,4 @@
-#  Student Marks Analyzer
+#  Student Grade Analyzer
 
 A beginner Python project that analyzes student marks, calculates averages, and flags subjects that need attention.
 
