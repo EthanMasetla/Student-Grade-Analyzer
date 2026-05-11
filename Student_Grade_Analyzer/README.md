@@ -104,5 +104,5 @@ python main.py
 
 **Masetla Kgabiso Ethen**  
 Computer Science and Maths Student  
-[LinkedIn](https://www.linkedin.com/in/kgabiso-masetla-a22524319/) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/kgabiso-masetla-a22524319/) | [GitHub](https://github.com/EthanMasetla)
 
